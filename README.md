@@ -3,6 +3,8 @@ By far the fastest available python triggerbot out there, no joke its speed is p
 
 How to setup
 
+first extract the file
+
 If you you're a coder, you can use the source, if not please proceed to use the exe.
 
 Start Exe, Start Valorant, go to ingame settings and use purple outline.
